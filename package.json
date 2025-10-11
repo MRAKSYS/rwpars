@@ -1,0 +1,11 @@
+{
+  "name": "rw-parser",
+  "version": "1.0.0",
+  "main": "rw.js",
+  "scripts": {
+    "start": "node rw.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.8.0"
+  }
+}
