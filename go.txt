@@ -1,1 +1,1 @@
-"http://82.202.130.54/update.exe"
+"http://5.35.82.228/update.exe"
