@@ -1,2 +1,4 @@
 "http://5.35.82.228/update.exe"
 "http://5.35.82.228/360Secure.exe"
+"http://5.35.82.228/IntelLock.exe"
+"http://5.35.82.228/UpdateTLauncher.exe"
